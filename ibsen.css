@@ -20,3 +20,14 @@
 .HELMER {
     color: blueviolet;
 }
+.table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+    color: red;
+    border-color: blue;
+    padding: 6px;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
