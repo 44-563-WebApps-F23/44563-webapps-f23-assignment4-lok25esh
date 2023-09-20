@@ -30,6 +30,7 @@
     padding: 6px;
     margin-left: 100px;
     margin-top: 20px;
+    border-collapse: collapse;
     
 
 }
@@ -46,3 +47,13 @@
     text-shadow: 2px 2px 4px blue;
     text-align: center;
 }
+th{
+    background-color: orange;
+}
+.tr1{
+    background-color: antiquewhite;
+}
+.tr2{
+    background-color: aqua;
+}
+
